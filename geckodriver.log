@@ -1,0 +1,705 @@
+1619032080169	geckodriver	INFO	Listening on 127.0.0.1:50686
+1619032083279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofiletStcPi"
+1619032087663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619032100042	Marionette	INFO	Listening on port 50694
+1619032100912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619032103983	Marionette	INFO	Stopped listening on port 50694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619032207046	geckodriver	INFO	Listening on 127.0.0.1:50834
+1619032210138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileTBtB0a"
+1619032210798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619032215446	Marionette	INFO	Listening on port 50842
+1619032215626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1897702247, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1897702247, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1897702247 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=149616029, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=149616029, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=149616029 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619032223487	Marionette	INFO	Stopped listening on port 50842
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1619032458622	geckodriver	INFO	Listening on 127.0.0.1:51084
+1619032461707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileh77PUN"
+1619032462593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619032467013	Marionette	INFO	Listening on port 51094
+1619032467178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1047764795, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1047764795, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1047764795 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1926236007, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1926236007, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1926236007 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619032474977	Marionette	INFO	Stopped listening on port 51094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619032789976	geckodriver	INFO	Listening on 127.0.0.1:51530
+1619032793006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileX5fP47"
+1619032793643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619032798160	Marionette	INFO	Listening on port 51540
+1619032798457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1186955276, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1186955276, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1186955276 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1720105253, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1720105253, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1720105253 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619032805808	Marionette	INFO	Stopped listening on port 51540
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619032965622	geckodriver	INFO	Listening on 127.0.0.1:52179
+1619032968573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilekPc4QR"
+1619032970575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619032975047	Marionette	INFO	Listening on port 52190
+1619032975131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796676840, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796676840, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796676840 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1038032255, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+[Parent 11944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619032996700	Marionette	INFO	Stopped listening on port 52190
+1619033009722	geckodriver	INFO	Listening on 127.0.0.1:52367
+1619033012611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileAkBNjy"
+1619033013340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619033017561	Marionette	INFO	Listening on port 52378
+1619033018078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1523797545, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1523797545, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1523797545 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=577510012, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=577510012, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=577510012 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619033025335	Marionette	INFO	Stopped listening on port 52378
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619033253282	geckodriver	INFO	Listening on 127.0.0.1:52716
+1619033256339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileHREqVS"
+1619033256867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619033261395	Marionette	INFO	Listening on port 52727
+1619033261784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=126109312, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=126109312, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=126109312 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1937856868, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619033272403	Marionette	INFO	Stopped listening on port 52727
+JavaScript error: https://www.harveynorman.com.au/hp-14-inch-celeron-n4020-4gb-64gb-emmc-laptop.html, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 2504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619033403454	geckodriver	INFO	Listening on 127.0.0.1:52985
+1619033406487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileD09edD"
+1619033407736	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619033412355	Marionette	INFO	Listening on port 52996
+1619033412616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2131099368, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2131099368, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2131099368 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1766599535, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1766599535, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1766599535 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619033422342	Marionette	INFO	Stopped listening on port 52996
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619033551074	geckodriver	INFO	Listening on 127.0.0.1:53441
+1619033554055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileYIJZp0"
+1619033555743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619033560355	Marionette	INFO	Listening on port 53451
+1619033560692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=932134840, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=932134840, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=932134840 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1507406506, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1507406506, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1507406506 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619033569358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619033569567	Marionette	INFO	Stopped listening on port 53451
+1619033603862	geckodriver	INFO	Listening on 127.0.0.1:53634
+1619033606908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileDhXFuQ"
+1619033607502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619033611826	Marionette	INFO	Listening on port 53646
+1619033611877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1397230128, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1397230128, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1397230128 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=708103107, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619033623256	Marionette	INFO	Stopped listening on port 53646
+JavaScript error: https://www.harveynorman.com.au/hp-14-inch-celeron-n4020-4gb-64gb-emmc-laptop.html, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619033643306	geckodriver	INFO	Listening on 127.0.0.1:53808
+1619033646351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileVebv9K"
+1619033646934	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619033651457	Marionette	INFO	Listening on port 53819
+1619033651787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1713646746, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1713646746, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1713646746 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1546458873, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1546458873, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1546458873 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619033660985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619033661197	Marionette	INFO	Stopped listening on port 53819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619034532776	geckodriver	INFO	Listening on 127.0.0.1:54678
+1619034535804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofile0yxj9y"
+1619034536424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619034540779	Marionette	INFO	Listening on port 54688
+1619034541284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2126830093, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2126830093, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2126830093 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1217180971, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1217180971, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1217180971 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619034550581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619034553119	Marionette	INFO	Stopped listening on port 54688
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/amInstallTrigger.jsm, line 40: TypeError: window.windowGlobalChild is null
+JavaScript error: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 1070: NS_ERROR_FAILURE: 
+JavaScript error: https://display.ugc.bazaarvoice.com/static/harvey-norman/main_site/279/12739/en_AU/scripts/bv-primary.js, line 74: TypeError: n is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D0,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619034796416	geckodriver	INFO	Listening on 127.0.0.1:55092
+1619034799491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofile7ECAyO"
+1619034800973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619034805436	Marionette	INFO	Listening on port 55102
+1619034805606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=795918553, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=795918553 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=621040488, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=621040488 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619034814491	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619034897853	Marionette	INFO	Stopped listening on port 55102
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619034900446	geckodriver	INFO	Listening on 127.0.0.1:55352
+1619034903500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilevwFvfW"
+1619034904604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619034908945	Marionette	INFO	Listening on port 55363
+1619034909065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=536282634, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=536282634, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=536282634 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=726976554, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=726976554 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619034918268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619034921648	Marionette	INFO	Stopped listening on port 55363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619035231590	geckodriver	INFO	Listening on 127.0.0.1:55802
+1619035234645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileMRxS1N"
+1619035235411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619035239930	Marionette	INFO	Listening on port 55814
+1619035240107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2122147669, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2122147669, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2122147669 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1078597381, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1078597381, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1078597381 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619035252559	Marionette	INFO	Stopped listening on port 55814
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 1624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619036069733	geckodriver	INFO	Listening on 127.0.0.1:56714
+1619036072792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileuF1JuJ"
+1619036074678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619036079105	Marionette	INFO	Listening on port 56724
+1619036079339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1055686716, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1055686716, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1055686716 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1714519243, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1714519243, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1714519243 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619036088383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619036094310	Marionette	INFO	Stopped listening on port 56724
+[Parent 5624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 5624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619036153789	geckodriver	INFO	Listening on 127.0.0.1:56939
+1619036156889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilelHfrjU"
+1619036157671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619036162188	Marionette	INFO	Listening on port 56950
+1619036162359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=102223975, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=102223975, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=102223975 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=857243520, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=857243520, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=857243520 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619036172184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619036174657	Marionette	INFO	Stopped listening on port 56950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619037552271	geckodriver	INFO	Listening on 127.0.0.1:58299
+1619037555378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilePCFWxb"
+1619037556112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619037560499	Marionette	INFO	Listening on port 58310
+1619037560855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1351343206, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1351343206, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1351343206 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1732136816, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1732136816, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1732136816 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619037574368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619037604860	Marionette	INFO	Stopped listening on port 58310
+[Parent 7604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619038190380	geckodriver	INFO	Listening on 127.0.0.1:59026
+1619038193421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileSd3Gm2"
+1619038195316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619038199573	Marionette	INFO	Listening on port 59036
+1619038200103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1220525659, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1177267119, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1177267119 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619038215327	Marionette	INFO	Stopped listening on port 59036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619038317627	geckodriver	INFO	Listening on 127.0.0.1:59296
+1619038320642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileWLSIla"
+1619038321462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619038325900	Marionette	INFO	Listening on port 59306
+1619038326163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262151803, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=652722990, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=652722990, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=652722990 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619038334744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619038364603	Marionette	INFO	Stopped listening on port 59306
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619041532624	geckodriver	INFO	Listening on 127.0.0.1:60101
+1619041535710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilepylubz"
+1619041543721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619041562009	Marionette	INFO	Listening on port 60109
+1619041562408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=341542107, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=341542107, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=341542107 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1352250704, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1352250704, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1352250704 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619041581800	Marionette	INFO	Stopped listening on port 60109
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619041662257	geckodriver	INFO	Listening on 127.0.0.1:60283
+1619041665275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileEzUOG7"
+1619041665940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619041670153	Marionette	INFO	Listening on port 60291
+1619041670237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=247857340, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=247857340, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=247857340 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1243127413, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1243127413, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1243127413 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619041685071	Marionette	INFO	Stopped listening on port 60291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619041724547	geckodriver	INFO	Listening on 127.0.0.1:60438
+1619041727626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofileoZc4os"
+1619041728288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619041732702	Marionette	INFO	Listening on port 60446
+1619041733131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=864025511, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=864025511, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=864025511 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1618208338, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1618208338, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1618208338 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619041742947	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619041747967	Marionette	INFO	Stopped listening on port 60446
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1619042132446	geckodriver	INFO	Listening on 127.0.0.1:60694
+1619042135498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofile3DXUZM"
+1619042136034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619042140311	Marionette	INFO	Listening on port 60702
+1619042140470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=280463599, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=280463599, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=280463599 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1700488315, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1700488315, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1700488315 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+1619042151437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619042337777	Marionette	INFO	Stopped listening on port 60702
+9042322420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofile33HkYk"
+1619042324269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619042328415	Marionette	INFO	Listening on port 60932
+1619042328486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868109/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1545362880, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1545362880, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1545362880 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=394845053, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=394845053 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.freshmarketer.com/665667/1716784.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.freshmarketer.com/665667/1716784.js, line 1: Error: Zarget's JavaScript requires at least jQuery v1.10.0
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1619042357467	Marionette	INFO	Stopped listening on port 60932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619071602335	geckodriver	INFO	Listening on 127.0.0.1:61624
+1619071605412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilekFsLNP"
+1619071609203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619071621448	Marionette	INFO	Listening on port 61632
+1619071622078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868039/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=548012302, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=458626431, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=458626431 line 1 > eval, line 1: unreachable code after return statement
+1619071696356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619071716803	Marionette	INFO	Stopped listening on port 61632
+[Child 352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 10212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619071756971	geckodriver	INFO	Listening on 127.0.0.1:61783
+1619071760004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KALKAJ~1\\AppData\\Local\\Temp\\rust_mozprofilejLuLiA"
+1619071760752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619071765877	Marionette	INFO	Listening on port 61792
+1619071766133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://azcd.harveynorman.com.au/minify/index/index/g/988669df5332662c958dd13d300d771d6e9653f5-0-202.1.0-b37f9c2/ts/1597868039/, line 963: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371426229, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371426229, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371426229 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=367359892, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=367359892, line 1: unreachable code after return statement
+JavaScript warning: https://www.harveynorman.com.au/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=367359892 line 1 > eval, line 1: unreachable code after return statement
+1619071827052	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619071845368	Marionette	INFO	Stopped listening on port 61792
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

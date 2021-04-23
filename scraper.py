@@ -8,7 +8,7 @@ firefox_path = which("geckodriver")
 
 driver = webdriver.Firefox(executable_path = firefox_path)
 
-driver.implicitly_wait(20) #one can increase the wait to get desired output 
+driver.implicitly_wait(30) #one can increase the wait to get desired output 
 
 driver.get('https://www.harveynorman.com.au/hp-14-inch-celeron-n4020-4gb-64gb-emmc-laptop.html')
 
